@@ -1,4 +1,4 @@
-' VBScript on Run Multiple Run Commands
+' VBScript to Run Multiple Run Commands
 ' Please visit this official link for more information
 ' 	https://learn.microsoft.com/en-us/previous-versions//sfw6660x(v=vs.85)?redirectedfrom=MSDN
 '
